@@ -183,7 +183,6 @@
 /main
 /home
 /vendor/phpunit/phpunit/src/Util/PHP
-/.well-known
 /wp-content/uploads
 /wp-includes
 /wp-admin/css
@@ -200,7 +199,6 @@
 /cgi-bin
 /.qidb
 /ALFA_DATA
-/.well-knownold
 /wp-content/plugins/security-malware-firewall/readme.txt
 /.git/config
 /wp-admin/admin-ajax.php?action=duplicator_download&file=..%2Fwp-config.php
@@ -255,7 +253,6 @@
 /mail/.env
 /public/.env
 /wp-admin/css
-/.well-known
 /sites/default/files
 /admin/controller/extension/extension
 /uploads
@@ -264,9 +261,6 @@
 /simple.php
 /mah.php
 /inputs.php
-/apple-touch-icon.png
-/apple-touch-icon-precomposed.png
-/apple-touch-icon.png
 /wordpress
 /wp
 /bc
@@ -860,7 +854,6 @@
 /main
 /home
 /wp-admin/css
-/.well-known
 /sites/default/files
 /admin/controller/extension/extension
 /uploads
@@ -949,7 +942,6 @@
 /humans.txt
 /ads.txt
 /security.txt
-/.well-known/security.txt
 //vendor/phpunit/phpunit/phpunit.xsd
 /sitemaps.xml
 /api/index.php/v1/config/application?public=true
@@ -1064,7 +1056,6 @@
 /autoload_classmap.php
 /xml.php
 /jindex.php
-/.well-known
 /wp-content/uploads/index.php
 /wp-content/plugins/index.php
 /en/index.php
@@ -1076,7 +1067,6 @@
 /wp-content/plugins/revslider/includes/external/page/index.php
 /install.php
 /wp-includes/css/index.php
-/.well-known/pki-validation/moon.php
 /classwithtostring.php
 /wp-includes/ID3/index.php
 /goods.php
@@ -1109,7 +1099,6 @@
 /wp-includes/js/index.php
 /ws.php
 /dropdown.php
-/.well-known/pki-validation/index.php
 /doc.php
 /administrator/templates/hathor/index.php
 /administrator/templates/isis/index.php
@@ -1160,7 +1149,6 @@
 /wp-includes/wp-login.php
 /cgi-bin/wp-login.php
 /xmlrpc.php
-/.well-known/acme-challenge/index.php
 /wp-admin/css/colors/index.php
 /web.php
 /xx.php
@@ -1169,14 +1157,12 @@
 /ioxi002.PhP7
 /wp-admin/network/about.php
 /back.php
-/.well-known/about.php
 /plugins.php
 /wp-content/about.php
 /class.api.php
 /baxa1.phP8
 /wp-includes/SimplePie/about.php
 /wp-includes/sitemaps/about.php
-/.well-known/acme-challenge/about.php
 /ova.php
 /wp-content/item.php
 /wp-content/classwithtostring.php
@@ -1192,7 +1178,6 @@
 /wp-admin/css/colors/about.php
 /wp-includes/customize/about.php
 /wp-admin/wp-login.php
-/.well-known/acme-challenge/upfile.php
 /wp-content/themes/include.php
 /wp-admin/classwithtostring.php
 /wp-content/plugins/WordPressCore/index.php
@@ -1233,7 +1218,6 @@
 /1337.php
 /upgrade.php
 /wp-content/tmpls.php
-/.well-known/pki-validation/about.php
 /editor.php
 /class.php
 /wp-includes/Text/about.php
