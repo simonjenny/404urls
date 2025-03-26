@@ -12,7 +12,7 @@ The URLs in this repository are extracted from honeypots monitoring different ty
 - Command & Control (C2) infrastructure
 
 ## File Structure
-- `url.txt`: The most recent list of detected malicious URLs.
+- `urls.txt`: The most recent list of detected malicious URLs.
 
 ## Usage
 ### Researchers & Security Analysts
@@ -28,3 +28,7 @@ If you have additional data sources or insights, feel free to contribute via pul
 
 ## Disclaimer
 This repository is for research and educational purposes only. The URLs provided may lead to harmful content—DO NOT visit them directly. Use proper precautions and analyze them in a controlled environment.
+
+## Last Imports
+
+
