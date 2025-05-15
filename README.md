@@ -29,19 +29,3 @@ If you have additional data sources or insights, feel free to contribute via pul
 ## Disclaimer
 This repository is for research and educational purposes only. The URLs provided may lead to harmful content—DO NOT visit them directly. Use proper precautions and analyze them in a controlled environment.
 
-## Last Imports
-
-- Wed 26 Mar 2025 03:21:16 PM CET - 1651 URL
-- Sun 30 Mar 2025 12:00:01 AM CET - 2619 URL
-- Sun 06 Apr 2025 12:00:01 AM CEST - 1407 URLs
-
-- Sun 13 Apr 2025 12:00:01 AM CEST - 1903 URLs
-
-- Sun 20 Apr 2025 12:00:01 AM CEST - 2457 URLs
-
-- Sun 27 Apr 2025 12:00:01 AM CEST - 2573 URLs
-
-- Sun 04 May 2025 12:00:01 AM CEST - 3151 URLs
-
-- Sun 11 May 2025 12:00:01 AM CEST - 3439 URLs
-
